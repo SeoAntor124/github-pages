@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Tempmail for GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Explore how you can enhance your GitHub Pages projects using temporary email services like Tempmail._
 
 </header>
 
@@ -21,38 +21,37 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Welcome
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+In this tutorial, we will explore how you can easily integrate temporary email services, such as [Tempmail](http://tempmaili.com/), into your GitHub Pages projects. Temporary email can be particularly useful for testing, registration, or managing spam.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+- **Who is this for**: Developers, beginners, students, project maintainers, businesses.
+- **What you'll learn**: How to use TempMail for your GitHub Pages projects.
+- **What you'll build**: We'll demonstrate how to set up and integrate TempMail into a simple GitHub Pages site.
+- **Prerequisites**: Basic knowledge of GitHub, Git, and web hosting.
+- **How long**: This tutorial takes less than an hour to complete.
 
-In this course, you will:
+In this tutorial, you will:
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
+1. Learn how to integrate TempMail into your project.
+2. Set up a basic GitHub Pages site.
+3. Utilize TempMail for registration or testing within your website.
+4. Learn tips for managing spam with TempMail.
 
-### How to start this course
+### How to start this tutorial
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
   template_name: 'github-pages',
   owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
+  name: 'skills-tempmail',
+  description: 'My TempMail integration repository',
   visibility: 'public',
 }).toString()
 -->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+[![start-tutorial](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-tempmail&description=My+TempMail+repository&visibility=public)
 
-1. Right-click **Start course** and open the link in a new tab.
+1. Right-click **Start tutorial** and open the link in a new tab.
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
